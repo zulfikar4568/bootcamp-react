@@ -1,0 +1,23 @@
+.ant-card-actions {
+  border-radius: 0 0 20px 20px;
+}
+
+.my-meta:hover {
+  .ant-card-meta-detail {
+    .ant-card-meta-title {
+      b{
+        color: #1477d3;
+      }
+    }
+  }
+}
+
+.my-meta:active {
+  .ant-card-meta-detail {
+    .ant-card-meta-title {
+      b{
+        color: #1890ff;
+      }
+    }
+  }
+}
